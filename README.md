@@ -2,4 +2,4 @@
 
 Projetos desenvolvidos durante o curso de Mestrado no Programa de Pós-Graduação em Ciências da Computação.
 
-# [Formulação Matemática do KNN]()
+# + [Formulação Matemática do KNN]()
