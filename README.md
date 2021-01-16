@@ -8,5 +8,5 @@ Projetos desenvolvidos durante o curso de Mestrado no Programa de Pós-Graduaç�
 ## + Formulação Matemática da Regressão Logística;
 ## + Formulação Matemática da Rede Neural;
 ## + Formulação Matemática do Support Vector Machines;
-## + Formulação Matemática do PCA (Principal Component Analysis);
+## + [Formulação Matemática do PCA (Principal Component Analysis)](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/PCA_FROM_SCRATCH.ipynb);;
 ## + Formulação Matemática do Agrupamento de Dados (K-Means);
