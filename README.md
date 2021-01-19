@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/GWzPoUX.png" style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%">
+
 # Aprendizado de Máquina e Mineração de Dados
 
 ## + [Formulação Matemática do KNN;](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/KNN_FROM_SCRATCH.ipynb)
