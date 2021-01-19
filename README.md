@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/GWzPoUX.png" style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%">
+<center><img src="https://i.imgur.com/GWzPoUX.png" style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%"></center>
 
 # Aprendizado de Máquina e Mineração de Dados
 
