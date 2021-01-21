@@ -2,7 +2,7 @@
 
 # Aprendizado de Máquina e Mineração de Dados
 
-## + [Formulação Matemática do KNN;](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/KNN_FROM_SCRATCH.ipynb)
+## + [Formulação Matemática do KNN (K-Vizinhos-Mais-Próximos);](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/KNN_FROM_SCRATCH.ipynb)
 ## + Formulação Matemática do Naive Bayes;
 ## + Formulação Matemática da Regressão Linear;
 ## + Formulação Matemática da Regressão Logística;
