@@ -9,12 +9,12 @@
 ## + [Formulação Matemática da Regressão Logística;](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/LOGISTIC_REGRESSION_FROM_SCRATCH.ipynb)
 ## + [Formulação Matemática do Naive Bayes;](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/NAIVE_BAYES_FROM_SCRATCH.ipynb)
 ## + Formulação Matemática da Rede Neural;
-## + Formulação Matemática do SVM (Máquinas de Vetores de Suporte);
-## + [Conceitos Avançados de Estatística para Análise de Dados;]()
-## + [Curvas de Aprendizado - Overfitting e Underfitting;]()
-## + [Otimizando os Parâmetros de um Modelo de Aprendizado de Máquina;]()
-## + [Normalização, Padronização e Transformação Nos Dados;]()
-## + [Validação Cruzada;]()
-## + [Métricas de Desempenho;]()
+$## + Formulação Matemática do SVM (Máquinas de Vetores de Suporte);
+$## + [Conceitos Avançados de Estatística para Análise de Dados;]()
+$## + [Curvas de Aprendizado - Overfitting e Underfitting;]()
+$## + [Otimizando os Parâmetros de um Modelo de Aprendizado de Máquina;]()
+$## + [Normalização, Padronização e Transformação Nos Dados;]()
+$## + [Validação Cruzada;]()
+$## + [Métricas de Desempenho;]()
 
 
