@@ -11,10 +11,6 @@
 ## + Formulação Matemática da Rede Neural;
 ## + Formulação Matemática do SVM (Máquinas de Vetores de Suporte);
 ## + [Conceitos Avançados de Estatística para Análise de Dados;]
-## + [Curvas de Aprendizado - Overfitting e Underfitting;]
-## + [Otimizando os Parâmetros de um Modelo de Aprendizado de Máquina;]
-## + [Normalização, Padronização e Transformação Nos Dados;]
-## + [Validação Cruzada;]
-## + [Métricas de Desempenho;]
+## + Perguntas e Respostas - Aprendizado de Máquina
 
 
