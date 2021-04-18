@@ -9,5 +9,5 @@
 ## + [Formulação Matemática da Regressão Logística;](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/LOGISTIC_REGRESSION_FROM_SCRATCH.ipynb)
 ## + [Formulação Matemática do Naive Bayes;](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/NAIVE_BAYES_FROM_SCRATCH.ipynb)
 ## + [Formulação Matemática da Rede Neural;](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/NN_FROM_SCRATCH.ipynb)
-## + Formulação Matemática do SVM (Máquinas de Vetores de Suporte);
+
 
