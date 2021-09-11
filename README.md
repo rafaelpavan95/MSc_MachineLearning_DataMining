@@ -13,6 +13,6 @@
 ## + [Formulação Matemática do Naive Bayes;](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/NAIVE_BAYES_FROM_SCRATCH.ipynb)
 ## + [Formulação Matemática da Rede Neural;](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/NN_FROM_SCRATCH.ipynb)
 
-## + [Teorema Central do Limite;](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/central.ipynb)
+## + Perceptron - Neural Network
 
-
+## + Adaline - Neural Network
