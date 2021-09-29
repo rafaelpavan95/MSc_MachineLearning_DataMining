@@ -1,7 +1,8 @@
 <center><img src="https://i.imgur.com/GWzPoUX.png" style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%"></center>
 
-# Aprendizado de Máquina e Mineração de Dados
+# Aprendizado de Máquina
 
+Este repositório contém algoritmos que formulam matematicamente modelos de machine learning e redes neurais.
 
 ## + [Comparação: Stochastic GD vs Batch GD;](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/Gradient.ipynb)
 
@@ -13,6 +14,3 @@
 ## + [Formulação Matemática do Naive Bayes;](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/NAIVE_BAYES_FROM_SCRATCH.ipynb)
 ## + [Formulação Matemática da Rede Neural;](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/NN_FROM_SCRATCH.ipynb)
 
-## + Perceptron - Neural Network
-
-## + Adaline - Neural Network
