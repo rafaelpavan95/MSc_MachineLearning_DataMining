@@ -2,7 +2,7 @@
 
 # Aprendizado de Máquina
 
-Este repositório contém algoritmos que formulam matematicamente modelos de Machine Learning e Redes neurais, desenvolvidos em atividades do Mestrado.
+Este repositório contém algoritmos que formulam matematicamente modelos de Machine Learning e Redes Neurais, desenvolvidos em atividades do Mestrado.
 
 ## + [Comparação: Stochastic GD vs Batch GD;](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/Gradient.ipynb)
 
